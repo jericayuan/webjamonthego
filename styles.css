@@ -8,8 +8,10 @@ body {
 header {
   text-align: center;
   padding: 60px;
+  background-color: #67876f
   background-image: url("/photos/campingbackground.jpg");
   background-image: center;
+  color: white
 }
 
 nav {
